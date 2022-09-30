@@ -1,6 +1,10 @@
 # Dexetivia
 ## hello guys
 
+![Github licence](https://img.shields.io/badge/Profile_views-245-0e75b6?style=flat-square)
+![Github yes](https://img.shields.io/badge/Coolnrss-89/100-0e75b6?style=flat-square)
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
